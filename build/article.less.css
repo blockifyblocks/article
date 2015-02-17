@@ -1,0 +1,19 @@
+.block-article {
+  margin: 20px 0;
+}
+.block-article .article-image {
+  width: 200px;
+  height: 200px;
+  overflow: hidden;
+  border-radius: 50%;
+  margin: 0 auto;
+}
+.block-article .article-image img {
+  min-height: 200px;
+  max-width: 200px;
+  margin: 0 auto;
+}
+.block-article .footer {
+  padding: 5px;
+  margin-top: 20px;
+}

@@ -1,0 +1,26 @@
+{
+  "name": "article",
+  "description": "A block for displaying articles",
+  "authors": [
+    "Blockify <info@blockify.co> (http://blockify.co/)"
+  ],
+  "defaults": {
+    "name": "Simple Title",
+    "image": "holder.js/200x200"
+  },
+  "version": "1.0.0",
+  "main": "article.php",
+  "keywords": [
+    "article"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/blockifyblocks/article.git",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "blocks",
+    "test",
+    "tests"
+  ]
+}
